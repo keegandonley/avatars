@@ -28,6 +28,39 @@ const HomePage = () => {
       <Tile src={image8} />
       <Tile src={image9} />
       <Tile src={image10} />
+      <Tile src={image0} />
+      <Tile src={image1} />
+      <Tile src={image2} />
+      <Tile src={image3} />
+      <Tile src={image4} />
+      <Tile src={image5} />
+      <Tile src={image6} />
+      <Tile src={image7} />
+      <Tile src={image8} />
+      <Tile src={image9} />
+      <Tile src={image10} />
+      <Tile src={image0} />
+      <Tile src={image1} />
+      <Tile src={image2} />
+      <Tile src={image3} />
+      <Tile src={image4} />
+      <Tile src={image5} />
+      <Tile src={image6} />
+      <Tile src={image7} />
+      <Tile src={image8} />
+      <Tile src={image9} />
+      <Tile src={image10} />
+      <Tile src={image0} />
+      <Tile src={image1} />
+      <Tile src={image2} />
+      <Tile src={image3} />
+      <Tile src={image4} />
+      <Tile src={image5} />
+      <Tile src={image6} />
+      <Tile src={image7} />
+      <Tile src={image8} />
+      <Tile src={image9} />
+      <Tile src={image10} />
     </div>
   );
 };
