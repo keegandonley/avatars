@@ -1,4 +1,3 @@
-import Image from "next/image";
 import image0 from "../avatars/0.jpg";
 import image1 from "../avatars/1.jpg";
 import image2 from "../avatars/2.jpg";
@@ -11,8 +10,6 @@ import image8 from "../avatars/8.jpg";
 import image9 from "../avatars/9.jpg";
 import image10 from "../avatars/10.jpg";
 import Tile from "../components/Tile";
-
-const DIMENSION = 200;
 
 const HomePage = () => {
   return (
